@@ -1,7 +1,7 @@
 # OR-Map
 
 Нужно реализовать распределенную Map-структуру OR-Map с политикой Last-Write-Wins на Go с использованием симулятора [Hive](https://github.com/nikitakosatka/hive).
-
+<!-- trigger -->
 ---
 
 ## Контекст
